@@ -15,7 +15,13 @@
       institution: University of Erlangen-Nuremberg, Erlangen, Germany
       year: 2021 - 2023
       description:
-        - Description 1.
+        - title: 'Courses'
+          items:
+            - Deep Learning
+            - Artificial Intelligence I & II
+            - Machine Learning for Time Series Deluxe
+            - Artificial Motor Learning
+            - Introduction to Explainable Machine Learning
         - Description 2.
     - title: M.Sc. Mechatronics
       institution: University of Erlangen-Nuremberg, Erlangen, Germany
