@@ -12,6 +12,7 @@
   type: time_table
   contents:
     - title: M.Sc. Artificial Intelligence
+      type: nested_list
       institution: University of Erlangen-Nuremberg, Erlangen, Germany
       year: 2021 - 2023
       description:
